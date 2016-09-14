@@ -34,7 +34,7 @@
   "homepage": "http://www.alpacajs.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gitana/alpaca.git"
+    "url": "https://github.com/HalcyonChimera/alpaca.git"
   },
   "dependencies": {
     "ace-builds": "1.1.7",
